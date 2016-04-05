@@ -1,4 +1,8 @@
 sourceTree For Experience
 14;51 change
 14;53 change2
+<<<<<<< HEAD
 15;02 master
+=======
+li ’Ç‰Á
+>>>>>>> newBranch1
